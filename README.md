@@ -1,6 +1,6 @@
 # Site
 
-This is a silly little implementation of a frontend that queries a DISCO registry for veggie farmers and logistics providers – both DISCO service providers. And we're on the moon, of course.
+This is a silly little implementation of a frontend that queries a [DISCO registry](https://github.com/open-disco/open-disco-docs) for veggie farmers and logistics providers – both DISCO service providers. And we're on the moon, of course.
 
 <img src="https://user-images.githubusercontent.com/2993937/65723162-d2939f80-e07b-11e9-82f1-687ee086ca41.png" />
 
